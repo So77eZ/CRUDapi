@@ -1,0 +1,17 @@
+{
+  "target": "ES6",
+  "dependencies": {
+    "express": "^4.17.3",
+    "save": "^2.4.0"
+  },
+  "name": "folder1",
+  "version": "1.0.0",
+  "description": "flex",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ya",
+  "license": "ISC"
+}
